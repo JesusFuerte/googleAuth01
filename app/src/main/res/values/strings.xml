@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">googleAuth</string>
+    <string name="login_button_text">LOGIN</string>
+    <string name="login_btn">login_btn</string>
+    <string name="logout_button_text">LOGOUT</string>
+    <string name="login_prompt">Bienvenido!</string>
+    <string name="settings_fact_type_title">settings_fact_type_title</string>
+    <string name="preference_fact_type_key">preference_fact_type_key</string>
+    <string name="fact_type_android">fact_type_android</string>
+</resources>

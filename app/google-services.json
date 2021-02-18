@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "567853454357",
+    "firebase_url": "https://apprestaurante-cdc20-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "apprestaurante-cdc20",
+    "storage_bucket": "apprestaurante-cdc20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567853454357:android:8bd44277921755dbc72a1c",
+        "android_client_info": {
+          "package_name": "com.example.android.firebaseui_login_sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567853454357-kfj9bg14ugalh2otki6mkmsn24130c3v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.firebaseui_login_sample",
+            "certificate_hash": "2d25bdc84890ddce19b4bd5224f79751bd7d7b11"
+          }
+        },
+        {
+          "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPTupPB2tUZ9pB5aoRrsYMyhs6ZgmZwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:567853454357:android:63a31f142806a741c72a1c",
+        "android_client_info": {
+          "package_name": "com.example.googleauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDPTupPB2tUZ9pB5aoRrsYMyhs6ZgmZwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
