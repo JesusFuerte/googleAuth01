@@ -15,7 +15,7 @@
       },
       "oauth_client": [
         {
-          "client_id": "567853454357-kfj9bg14ugalh2otki6mkmsn24130c3v.apps.googleusercontent.com",
+          "client_id": "[xxxxxxx]",
           "client_type": 1,
           "android_info": {
             "package_name": "com.example.android.firebaseui_login_sample",
@@ -23,20 +23,20 @@
           }
         },
         {
-          "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+          "client_id": "[xxxxxx]",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDPTupPB2tUZ9pB5aoRrsYMyhs6ZgmZwI"
+          "current_key": "[xxxxx]"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+              "client_id": "[xxxxx]",
               "client_type": 3
             }
           ]
@@ -52,20 +52,20 @@
       },
       "oauth_client": [
         {
-          "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+          "client_id": "[xxxxxx]",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBDPTupPB2tUZ9pB5aoRrsYMyhs6ZgmZwI"
+          "current_key": "[xxxxxxx]"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "567853454357-5g6pfpjuaegc08vifllrqh7esk3h0lqd.apps.googleusercontent.com",
+              "client_id": "[xxxxxxx]",
               "client_type": 3
             }
           ]
